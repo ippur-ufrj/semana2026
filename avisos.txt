@@ -1,0 +1,4 @@
+// AVISOS — cada linha (sem //) aparece como um aviso no topo da programação.
+// Apague a linha quando o aviso não valer mais.
+// Exemplo:
+// A ST 3 mudou para a sala 524.

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#BD0303">
+  <meta name="description" content="Programação da XXXI Semana IPPUR — 19 a 24 de outubro de 2026">
+  <title>XXXI Semana IPPUR · Programação</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="assets/icone-192.png">
+  <link rel="apple-touch-icon" href="assets/icone-192.png">
+  <link rel="preload" href="fontes/Horizon.otf" as="font" type="font/otf" crossorigin>
+  <link rel="preload" href="fontes/consolab.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <div class="app">
+    <main id="tela"><p class="carregando">Carregando programação…</p></main>
+
+    <nav class="abas">
+      <button data-aba="prog">
+        <svg viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>
+        <span>Programa</span>
+      </button>
+      <button data-aba="busca">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
+        <span>Buscar</span>
+      </button>
+      <button data-aba="agenda">
+        <svg viewBox="0 0 24 24"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.8l6.1-.9z"/></svg>
+        <span>Agenda</span><b id="contador" hidden></b>
+      </button>
+      <button data-aba="info">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 11v5.5M12 7.5v.5"/></svg>
+        <span>Info</span>
+      </button>
+    </nav>
+
+    <section id="detalhe" hidden></section>
+    <div id="aviso-rapido" hidden></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

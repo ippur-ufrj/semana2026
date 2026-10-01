@@ -1,0 +1,376 @@
+// ==========================================================
+// PROGRAMAÇÃO — XXXI SEMANA IPPUR
+// Edite este arquivo direto no GitHub. O app se atualiza sozinho.
+//
+// COMO ESCREVER
+//   # 19/10/2026                         → abre um novo dia
+//   ## 13:30-16:00 | st | Sala 522        → nova atividade: horário | tipo | local
+//   Código: ST 1                          → rótulo curto (opcional)
+//   Título: Nome da atividade
+//   Coordenação: Fulana de Tal            → qualquer "Papel: nomes" vira pessoa
+//   - Autor A; Autor B | Título do trabalho  → item da lista (trabalho, livro, pôster)
+//   Obs: texto livre                      → observação (opcional)
+//
+// TIPOS: abertura, conferencia, mesa, st, sl, especial, livros, poster, campo, festa, pausa
+// (cores e nomes dos tipos ficam em config.json)
+// Linhas começando com // são ignoradas.
+// ==========================================================
+
+
+# 19/10/2026
+
+## 09:00-10:00 | abertura | Auditório · sala 528
+Código: Sessão de Abertura
+Título: Mesa institucional de abertura
+
+## 10:00-12:00 | conferencia | Auditório · sala 528
+Código: Conferência de Abertura
+Título: Brasil no séc. XXI: projetos em disputa, conflitos e a construção de caminhos possíveis
+Palestrantes: Givânia Maria da Silva - Coordenação Nacional de Articulação das Comunidades Negras Rurais Quilombolas e Jurema Constâncio - União Nacional por Moradia Popular
+Debatedores: Luiz Cezar de Queiroz Ribeiro e Carlos Bernardo Vainer
+Moderação: Luis Regis Coli Silva Júnior
+
+## 12:00-13:30 | pausa
+Título: Almoço
+
+## 13:30-16:00 | st | Sala 522
+Código: ST 1
+Título: Áreas Centrais em Disputa
+Coordenação: Fernanda Verri
+- Kêila Pirovani da Silva; Marcos Antonio Pedlowsk; Cézar Teixeira Honorato | O Centro que não aparece: city marketing e o centro vivido na política de requalificação de Niterói (RJ)
+- Breno Serodio de Castro Rossi | O Centro do Rio de Janeiro em perspectiva dialética: entre revitalizações e resistências
+- Mariana Guimarães de Carvalho Claudio Rezende Ribeiro | Não há mais alternativas: um estudo sobre a gestão de imóveis na Zona Portuária do Rio de Janeiro
+- Eduardo Iantorno de Moraes | A terra pública em disputa: Rio de Janeiro e Recife em rotas opostas
+- Maria Clara Borges Rodrigues Mariana Trotta Dallalana Quintans | A propriedade pública e as disputas pelo território urbano: reflexões a partir da Casa Almerinda Gama
+
+## 13:30-16:00 | st | Sala 524
+Código: ST 2
+Título: Cultura, Diversidade e Políticas Públicas
+Coordenação: Mariana Bonadio
+- Natália Farias da Silva; Karine DIas de Jesus; Giulia Costa dos Santos | Espaços de expressão cultural como territórios de pertencimento e resistência na cidade do Rio de Janeiro
+- Fellipe Dias Loureiro Lima | Atuação das Políticas Culturais no Brasil: Uma Análise Comparativa entre a Lei do ISS e o Programa Ações Locais
+- Luna de Oliveira Ribeiro | Políticas públicas e diversidade sexual e de gênero no subúrbio carioca: um estudo de caso em Bento Ribeiro.
+- Yasmim C. da Conceição Pereira; Renata da Bastos da Silva | Carreira e família: a jornada de gerações de mulheres rumo à equidade - Claudia Goldin
+- Rodrigo Geraldo de Oliveira | Envelhecimento, cultura e memória: uma análise das políticas públicas culturais em Jacareí-SP
+- Ana Carolina de Sousa Valente | Entre o Morro da Providência e a Pequena África: a relação dos moradores da Pedra Lisa com a herança cultural do território
+
+## 13:30-16:00 | st | Sala 526
+Código: ST 3
+Título: Participação Social, Sociedade Civil e Políticas Públicas
+Coordenação: Gustavo Costa
+- Andreza Dionisio Pereira; Mariana Mazzini Marcondes | Favela enquanto espaço de inovação em práticas de cuidados: o caso do Especiais da Maré (Rio de Janeiro)
+- Alan Faria Andrade Silva | Associações do terceiro setor e o atendimento à população em situação de rua: entre a liberdade de associação, a garantia de direitos e os fatores econômicos em São Paulo
+- Renata Cristina do Nascimento Antão | Entre a norma e a prática: capacidades institucionais e a implementação do MROSC no Sistema CAU
+- Inayna dos Santos de São Sabas; Francisco Lindoval de Oliveira Marcio Silva Borges | O Programa de Aquisição de Alimentos e a sociedade civil organizada: o caso de uma associação de agricultores em Nova Iguaçu
+- Fernando Nicholas dos Santos Dias; Joelma Souza dos Santos; Maria Eduarda Correia de Santana; Vitor Lourenço Baiense | Pesquisar a fome a partir do território: metodologias participativas para o estudo das cozinhas solidárias em territórios periféricos
+- Jaspe Marques de Mattos | Gestão democrática, governança e participação social: uma análise da regulamentação do Conselho Escola-Comunidade da Rede Municipal do Rio de Janeiro (1984–2026)
+
+## 13:30-16:00 | st | Auditório · sala 528
+Código: ST 4
+Título: Autoritarismos, Dominação Simbólica e Controle Territorial
+Coordenação: Claudia Paiva
+- Amarildo Pinto Silva | Entre o Limes Escolar e o Controle do Território: Necropolítica, Segurança Pública e outras Barreiras ao Ensino Superior em Costa Barros
+- Utanaan Reis Barbosa Filho | A forma social miliciana: quatro considerações sobre sua expansão no território nacional
+- Ellen Rose Beserra França dos Santos | Fé, poder e território: evangelicalismo periférico, dominação simbólica e manutenção de desigualdades no Rio de Janeiro
+- Bruno Despontin Malvezzi | Pousos, UPP e Reub como dispositivos de dominação simbólica nas favelas cariocas
+- Fábia Eduarda de Oliveira Franco; Júlia Sarmento Mariano | Proibicionismo-racismo na formação econômica e social brasileira
+- Natalia Pires da Costa; Maria Júlia Rodrigues Freitas | Eleições e partidos políticos em contexto autoritário: estratégias e reações às reformas da ditadura brasileira
+
+## 16:00-16:30 | pausa
+Título: Intervalo
+
+## 16:30-18:00 | sl | Sala 522
+Código: SL 1
+Título: A produção social do território e a política urbanizadora no oitocentos imperial e Primeira República
+Coordenação: Fania Fridman
+Participantes: Luciana Alem Gennari; Maria Isabel de Jesus Chrysostomo; Carlos Henrique C. Ferreira; Clovis R. Jucá Neto; Higor Mozart Geraldo Santos
+
+## 16:30-18:00 | sl | Sala 524
+Código: SL 2
+Título: Intercâmbios internacionais de pesquisa e o projeto Capes-Cofecub serviços públicos urbanos
+Participantes: Rosangela Luft, Deborah Werner, Lalita Kraus, Suyá Quintslr, Fábio Pimentel, Eliane Moreira Folhes, Igor Sporch
+
+## 16:30-18:00 | sl | Sala 526
+Código: SL 3
+Título: Pensadores Latino-Americanos e as efemérides de 2026
+Participantes: Renata Bastos da Silva; Núcleo de Estudos Antonio Gramsci NEAG
+
+## 16:30-18:00 | sl | Auditório · sala 528
+Código: SL 4
+Título: Corpos, violência e território: exibição de A Primeira Pedra (Vladimir Seixas, 2018) pelo RevoluCine
+Participantes: Luana Adriano Araújo; Ana Beatriz Macrini; Fabia Franco; Sabryna Lima; Stephany Alves; Ana Beatriz Fortunato
+Debatedora: Mariana Trotta
+
+
+# 20/10/2026
+
+## 09:00-12:00 | mesa | Auditório · sala 528
+Código: Mesa 1
+Título: Crise ambiental e subordinação territorial aos interesses financeiros
+Palestrantes: Charles Trocate - Movimento pela Soberania Popular na Mineração (MAM); João Batista dos Santos - Movimento dos atingidos por Renováveis (MAR); Deborah Werner (IPPUR) e Edwin Muñoz Gaviria (IPPUR)
+Moderação: Rosangela Marina Luft
+
+## 12:00-13:30 | pausa
+Título: Almoço
+
+## 13:30-16:00 | st | Sala 522
+Código: ST 5
+Título: Transição Energética, Neoextrativismos e Desigualdades Territoriais
+Coordenação: Deborah Werner
+- Carla Hirt; Deborah Werner; Monique Assunção | Assetização e neoextrativismo urbano: o papel do BNDES na estruturação de concessões de saneamento no Brasil
+- Luíza Campiti Braga | Pobreza Energética e Desigualdades no Acesso a Serviços Energéticos na Região Metropolitana do Rio de Janeiro
+- Bruna Maciel da Cunha; Nicolly Biannca Santana Soares; Deborah Werner | Transição energética e justiça territorial: análise crítica da cadeia produtiva da descarbonização no Brasil
+- Lucas Reis Santos | O mercado de hidrogênio de baixo carbono no Brasil e neoextrativismo: considerações a partir do Porto do Açu, Rio de Janeiro
+
+## 13:30-16:00 | st | Sala 524
+Código: ST 6
+Título: Desastres e Desigualdades Socioambientais
+Coordenação: Edwin Gaviria
+- Paul Matthieu Macalli | Sair da casa não encerra o deslocamento: erosão costeira, moradia e gestão pública em Atafona (RJ)
+- Alexsandro Magalhães Pinto | O Espaço Fora do Lugar: do desastre socioambiental à segregação socioespacial — O Conjunto Habitacional Terra Nova em Nova Friburgo/RJ
+- Beatriz Cutini Freitas; Maria Clara Friedrich Dadalto; Liziane de Oliveira Jorge | Relatos da população afetada: impactos socioambientais no espaço urbano de Vila Velha/ES
+- Desirèe Souza Vacques | Memória das Águas: Racismo ambiental, expressão de cidades aquáticas e a periferização
+- Letícia Batista Mathias | As Juventudes como Atores na Governança Climática: possibilidades de participação no município do Rio de Janeiro
+
+## 13:30-16:00 | st | Sala 526
+Código: ST 7
+Título: Políticas Habitacionais, Regularização Fundiária e Produção do Espaço Urbano
+Coordenação: Fabrício Leal de Oliveira
+- Valéria Braga dos Santos | Dissensos e continuidades da política habitacional brasileira: do regime de sesmarias à vila operária da CSN em Volta Redonda
+- Alexia de Araujo Rodrigues | Reflexo do Amanhã: a luta pela regularização fundiária em Volta Redonda (2020 - 2026)
+- Edmar Augusto Santos de Araujo Jr; Magna Corrêa Lima Duarte; Renata Piroli Mascarello | Busca ativa de terras e imóveis para habitação de interesse social: uma análise sobre o processo de criação da Habita-Rio na cidade do Rio de Janeiro
+- Jobair Assis Rangel; Tony Guarnielle Barbosa Ribeiro; Sandra Maria Fonseca da Costa; Artur Rosa Filho | Política habitacional e a produção do espaço urbano em Roraima: a trajetória do Programa Minha Casa, Minha Vida em Boa Vista (2009–2025).
+- Yasmin Copello | REURB-S e práticas clientelistas: o caso da comunidade urbana MATRIZ II, Guaratiba – RJ
+
+## 13:30-16:00 | st | Auditório · sala 528
+Código: ST 8
+Título: Pensamentos Outros e Movimentos Sociais
+Coordenação: Orlando Alves Santos Júnior
+- Clara Guimarães Melo; Fabrício Leal de Oliveira | Prática decolonial e embates nos espaços institucionais: análise e utopias do planejamento popular brasileiro
+- Luiza Meira do Nascimento | Dois Movimentos, uma luta comum: Movimento Nacional pela Reforma Urbana e Movimento Nacional da Reforma Psiquiátrica na reivindicação pelo Direito à Cidade
+- Carmen Rosane P. S. Costa; Giselle Tanaka; Luis Régis Coli | Linhas de conflito e arenas de disputa: o Movimento Social de Mães na luta por cidadania, justiça e direito à vida no Rio de Janeiro
+- Amanda da Fonseca Arigony | O encontro entre Guerreiro Ramos e Nego Bispo: um diálogo crítico entre organizações e territórios
+- Mariangela de Azevedo | Periferia, juventude e educação antirracista: as imagens e o pensamento crítico nas aulas de Geografia
+
+## 16:00-16:30 | pausa
+Título: Intervalo
+
+## 16:30-18:00 | sl | Sala 522
+Código: SL 5
+Título: Transporte público por ônibus no município do Rio de Janeiro entre 2010 e 2028: agendas globais, tecnologias e justiça socioespacial
+Participantes: Rosangela M. Luft; Rebecca Bassi; Matheus Ramos; Jessica Venel Alves; Josiane Lima Barreto; Vinícius Moraes
+
+## 16:30-18:00 | sl | Sala 524
+Código: SL 6
+Título: Assetização, transição energética e territórios
+Participantes: Deborah Werner; Júlio César Holanda Araújo; Lucas Reis Santos; Wander Guerra
+Convidados: Lira Benites Lázaro; Auricélio Gois Lima; João Batista dos Santos
+
+## 16:30-18:00 | sl | Sala 526
+Código: SL 7
+Título: Responsabilidade social e terceiro setor
+Participantes: Daniel Negreiros Conceição; Marcelo G. Pessoa de Matos; Dália Maimon; Laboratório de Responsabilidade Social e Sustentabilidade (Lares/IE-UFRJ)
+
+## 16:30-18:00 | especial | Auditório · sala 528
+Código: Sessão Especial
+Título: 25 anos do Estatuto da Cidade: balanço, desafios e perspectivas futuras
+Participantes: Alex Ferreira Magalhães; Fabrício Leal de Oliveira e Orlando Alves Santos Júnior
+
+
+# 21/10/2026
+
+## 09:00-12:00 | mesa | Auditório · sala 528
+Código: Mesa 2
+Título: O planejamento urbano e regional e a construção do Brasil no Séc. XXI
+Palestrantes: Giselle Megumi Tanaka (IPPUR); Carlos Brandão (IPPUR); José Ricardo Vargas de Faria (PPU/UFPR e Presidente da ANPUR); Luciana Leite Lima (UFRGS e Diretora-Presidente da ANEPECP)
+Mediação: Filipe Souza Correa
+
+## 12:00-13:30 | pausa
+Título: Almoço
+
+## 13:30-16:00 | st | Sala 522
+Código: ST 9
+Título: Desenvolvimento Regional e Planejamento Territorial
+Coordenação: Hipólita Siqueira de Oliveira
+- Bárbara Da Costa Amoras | Novos arranjos políticos institucionais entre as políticas de desenvolvimento regional e de fronteiras: o caso da fronteira Norte (AP)
+- Tainá Farias da Silva Maciel; Ingrid Lessa Weber; Fernando Nicholas dos Santos Dias | Consórcios interestaduais no Brasil: uma análise comparativa
+- Milider Carmela Pino Moreno; Sergio Henrique De Oliveira Teixeira | Planejamento territorial e desenvolvimento regional: o circuito espacial produtivo da energia elétrica da Itaipu binacional
+- Denyse Pereira Neves Delgado | Produção desigual do espaço regional: uma interpretação a partir dos processos sócio-espaciais na Zona da Mata Mineira
+- Santiago De Freitas Barreto | Integração produtiva e restrição externa na América Latina: lições históricas e possibilidades de uma estratégia regional
+
+## 13:30-16:00 | st | Sala 524
+Código: ST 10
+Título: Perspectivas Históricas do Planejamento e Produção do Espaço
+Coordenação: Erick Omena
+- José Raphael Sette Pinheiro | Processo de urbanização e economia-mundo: a formação geo-histórica do Rio de Janeiro no “longo século xix” (1763-1937)
+- Fernando Nicholas dos Santos Dias | Planejamento e territorialização de políticas públicas em São João de Meriti: história e produção do espaço urbano na Baixada Fluminense
+- Fernanda Jahn Verri | Genealogias do planejamento urbano moderno e a produção da informalidade
+- Guilherme Chalo; Bárbara Carvalho | Geografia Histórica da Atenção Primária à Saúde: uma proposta cartográfica (1911-2020)
+- João Pedro Braga dos Santos; Lucas Barreto Morais; Júlia Natália Souza Gonçalves | Municipalismo e segurança nacional na Ditadura brasileira pós−1964
+
+## 13:30-16:00 | st | Sala 526
+Código: ST 11
+Título: Economia Política, Financeirização e Desenvolvimento
+Coordenação: Carlos Brandão
+- Santiago De Freitas Barreto | Do padrão dólar flexível a uma união de compensação dos brics: limites e possibilidades de uma arquitetura financeira para a periferia do capitalismo
+- Sergio Martín Páez | Digitalização financeira e nova urbanização dependente: a reestruturação territorial da infraestrutura bancária no estado do Rio de Janeiro
+- Isabela de Souza Campbell | Capital Financeiro e Produção do Espaço Urbano: concentração territorial e financeirização imobiliária no Brasil a partir dos Fundos de Investimento Imobiliário
+- Luiza Mel do Carmo Marques | Complexidade econômica e superexploração do trabalho nas regiões metropolitanas brasileiras
+
+## 13:30-16:00 | st | Auditório · sala 528
+Código: ST 12
+Título: Memória, Cultura e Espacialidades
+Coordenação: Mariana Albinati
+- Nikolle Soares Matos; Márcia Regina da Silva Ramos Carneiro | Quem governa a memória pública? patrimônio afro-brasileiro e disputas de reconhecimento nas plataformas digitais a partir do xv presente de Iemanjá em Macaé/RJ
+- Fabianna Vieira do Nascimento | Niterói afro-pindorâmica: a busca por grafias da herança ancestral
+- Antonio Sergio De Souza Junior | Rugosidades em disputa: memória Cabana, planejamento e gestão urbana em Belém (PA)
+- Jordana Aparecida Teza; Ana flávia Costa Eccard | Territórios de terreiro, justiça territorial e direito à cidade: “uma encruzilhada entre o legal e o sagrado”
+- Fabia Eduarda de Oliveira Franco; Emily Santos; Gustavo Costa de Souza. | Território e arte marginal na BR-040: Slam dos Crias e os guardiões da memória
+
+## 16:00-16:30 | pausa
+Título: Intervalo
+
+## 16:30-18:00 | sl | Sala 522
+Código: SL 8
+Título: Conflitos socioambientais e a luta das comunidades tradicionais frente às investidas do capital espanhol na restinga de Maricá
+Participantes: Soraya Silveira Simões; Alice Pina; Désirée Guichard Freire
+
+## 16:30-18:00 | sl | Sala 524
+Código: SL 9
+Título: Rio de Janeiro, cidade sitiada sob a ótica da “virada infraestrutural”
+Participantes: Fábio Lucas Pimentel de Oliveira; Camila Gavazzi Felix; Isabela Martins; Geísa Castro dos Santos
+
+## 16:30-18:00 | sl | Sala 526
+Código: SL 10
+Título: Estado e Coordenação de Políticas Públicas no Território
+Participantes: Hipólita Siqueira; Carlos Brandão; Aristides Monteiro Neto; Ricardo Karam
+
+## 16:30-18:00 | livros | Auditório · sala 528
+Código: Lançamento de Livros
+Título: Lançamento de livros
+- Helbson de Avila | A Raiz da Questão: Estado, Políticas públicas e Análise da Igualdade Racial
+- Coletânea do Grupo de Pesquisa Problemática Ambiental Urbana | Um descortinar do mundo e outros a pensar: pesquisas sobre problemáticas urbanas e ambientais
+- Adauto Lúcio Cardoso e Utanaan Reis Barbosa Filho (org.) | Ilegalismos e a produção da cidade: jogos de poder, mercados urbanos e dinâmicas
+- Org. Taísa Sanches et al. Observatório das Metrópoles | Gestão democrática e esferas públicas de participação: reflexões e desafios da 6ª Conferência Nacional das Cidades
+
+
+# 22/10/2026
+
+## 09:00-12:00 | mesa | Auditório · sala 528
+Código: Mesa 3
+Título: Cultura política, tecnologia e poder: enfrentamentos para um planejamento socioambientalmente referenciado
+Palestrantes: Lalita Kraus (IPPUR); Polinho Mota (Data Labe); Lucas Alencar (Núcleo de Tecnologia do MTST)
+Mediação: Claudia Paiva Carvalho
+
+## 12:00-13:30 | pausa
+Título: Almoço
+
+## 13:30-16:00 | st | Sala 522
+Código: ST 13
+Título: Tecnopolíticas e Territórios
+Coordenação: Fernanda Pernasetti
+- Tomás Coimbra Donadio | Resistência de dados no trabalho em plataformas digitais: empoderamento e emancipação em intervenções sociotécnicas engajadas
+- Tainá Farias da Silva Maciel | Dados como cuidado: o movimento de geração cidadã
+- Camila Maura Moreira da Silva | Centralidades no acesso à justiça: território, dataficação e infraestrutura no Rio de Janeiro
+- Marcos Dias de Paula; Pedro Henrique Gonçalves | Difusão da inovação em cidades inteligentes no contexto do desenvolvimento regional
+
+## 13:30-16:00 | st | Sala 524
+Código: ST 14
+Título: Gestão do Risco e Desastres Socioambientais
+Coordenação: Gustavo Bezerra
+- Maria Clara Friedrich Dadalto; Beatriz Cutini; Francisco de Assis Mendonça | O que ainda permanece invisível nas abordagens hegemônicas sobre risco?
+- Carlos Eduardo Ribeiro Silveira | Planejamento urbano e gestão do risco em Juiz de Fora: análise documental do desastre socioambiental de 2026
+- Vanessa Sartori Rodi; Samara Isis Pereira Nicolau | Alertas e enquadramentos midiáticos no caso Samarco/Vale/BHP em Mariana-MG
+- Luna Almeida Rodrigues; Edwin Muñoz Gavíria | Gestão pública e desastres ambientais: Uma análise das críticas à regulação e fiscalização da mineração na CPI da Braskem
+
+## 13:30-16:00 | st | Sala 526
+Código: ST 15
+Título: Dinâmicas de Urbanização e Mobilidade
+Coordenação: Juciano Martins Rodrigues
+- Maria Caroline da Silva Souza | Mobilidade urbana e transporte em São Gonçalo/RJ
+- Flora Agullo | A mobilidade cotidiana no contexto da transição ecológica de grandes metrópoles: uma análise das mudanças nas práticas de mobilidade dos moradores de Lyon (França) à luz das políticas de transporte
+- Mayra Abboudi Brasco | A expansão urbana na periferia de Campinas: o planejamento urbano orientado para a captura de rendas no distrito do Campo Grande
+- Angélica Silva Arruda Vidal | Transformações socioespaciais em pequenas cidades brasileiras sob a ótica da nova urbanização dependente
+- Isabela Braz Rossetti; Nayara Félix Moura Macedo; Érika Jorge Rodrigues da Cunha; Carolina P. Gonçalves da Motta; Gabriela Tavares de Lanna Lage | Limitações da política urbana na contenção da urbanização dispersa: o caso de São Gotardo-MG
+
+## 16:00-16:30 | pausa
+Título: Intervalo
+
+## 16:30-18:00 | sl | Sala 522
+Código: SL 11
+Título: Urbanização dependente em perspectiva comparada: dimensões da dependência nos municípios brasileiros
+Participantes: Erick Silva Omena de Melo; Sérgio Paez; Bianca Purkott Cezar; Isabela Campbell; Luiza Mel Marques; Breno Serodio; Utanaan Reis
+
+## 16:30-18:00 | sl | Sala 524
+Código: SL 12
+Título: Cuidado e trabalho no território urbano: uma abordagem a partir de gênero e interseccionalidade
+Participantes: Mariana Mazzini Marcondes; Paula Guedes Martins Ferreira; Fernanda Vieira; Redes da Maré
+
+## 16:30-18:00 | sl | Sala 526
+Código: SL 13
+Título: Escolas comunitárias e políticas públicas entre o Estado e o território
+Participantes: Mariana Albinati; Claudia Paiva Carvalho; Gustavo Costa de Souza; Laila Leite Alves
+Convidadas: Angélica Proença; Inessa Lopes; Lena de Souza; Talita Acrênea Melone
+
+## 16:30-18:00 | sl | Auditório · sala 528
+Código: SL 14
+Título: 50 anos da resistência da favela do Vidigal: debate a partir do documentário “Favela do Papa”
+Participantes: Julia Santiago; Alex Ferreira Magalhães; Laboratório de Estudos das Transformações do Direito Urbanístico
+
+## 16:30-18:00 | poster
+Código: Pôsteres
+Título: Apresentação de pôsteres
+Comissão avaliadora: Fernanda Pernasetti, Luana Adriano, Tainá Farias da Silva Maciel
+- Vinícius dos Reis Soares | Trajetórias de gastos em bem-estar urbano dos municípios da Metrópole do Rio de Janeiro
+- Eduarda Rimas Lessa Renata Bastos da Silva; Yasmin Diniz Andrade | A Década dos Oceanos: Apresentação do livro “Maya e a Fera”
+- Edson Vitor Soares Silva | Estratégias familiares com gastos educacionais: uma análise a partir da pesquisa de orçamentos familiares (POF)
+- Luis Felipe Tavares da Silva | Cristina Rivera Garza: O invencível verão de Liliana
+- Mylene Vicente da Silva Moreira; Isadora Rosa Alves; Ana Carolina de Souza Passos; Fernanda Santos Araújo; Mauro Kleiman. | Saneamento básico em áreas precárias do Rio de Janeiro: o caso da Serra da Misericórdia.
+- Maria Eduarda Moura Barbosa Menezes de Queiroz; Renata Cristina do Nascimento Antão | OSC em Movimento: Clínica de Formação e Fortalecimento da Sociedade Civil
+- Daniele de Oliveira Soares; Renata Bastos da Silva | REPÚBLICA NO BRASIL - Os 60 anos de Revolução Brasileira de Caio Prado Júnior
+- Luísa Leal Ávila | Existe uma representação metropolitana? Os deputados estaduais metropolitanos e sua relação com a governança metropolitana no Rio de Janeiro
+- Rafaela Soares Batista Lalita Kraus; Tainá Farias | Geração cidadã de dados e políticas públicas: um olhar a partir da iniciativa “cocôzap” na maré
+- Alyssom Gabriel Rodrigues Dias; Daniel Dos Santos Alves | Impacto das megaoperações policiais na acessibilidade à Cidade Universitária da Ilha do Fundão
+- Lucas Barreto Morais; João Pedro Braga dos Santos; Júlia Natália Souza Gonçalves; Maria Júlia Rodrigues Freitas; Natália Pires da Costa | Autoritarismo, eleições e poder local no Brasil
+- Letícia Silva Souza; Vanuza da Silva Pereira Ney; Maria do Socorro Bezerra de Lima | Feiras Agroecológicas e Circuitos Solidários: O empoderamento das mulheres de Campos dos Goytacazes
+- João Gabriel da Silva Pires de Mélo; Marcelo Gomes Ribeiro | Dinâmicas de emprego e de salário na metrópole do Rio de Janeiro (2007−2024)
+- Quéren Carvalho Santos; Juliana Dias, Dulce Mantuano, Renata Santos Pereira Machado. | Hortas Comunitárias Urbanas como Territórios de Resistência: Autogestão, Agroecologia e Construção Coletiva de Políticas Públicas
+- Vitória Santos da Silva | Conceito e prática da Vigilância Popular Ambiental no Brasil: Uma revisão exploratória de literatura
+- Rogerio Pereira dos Santos; Alex Ferreira Magalhães | Resultados do Projeto de Pesquisa “Direito das Favelas”, eixo “Direito de Construir” nas Favelas da Cachoeirinha e Vidigal
+- Marina Cupello Fernandes | Resultados do Projeto de Pesquisa “Direito das Favelas”, eixo “ Uso dos Espaços Públicos” nas favelas da Cachoeirinha e Vidigal
+- Júlia Santiago da Silva; Alex Ferreira Magalhães | Resultados do Projeto de Pesquisa “Direito das Favelas”, eixo “serviços Urbanos” nas favelas da Cachoeirinha e Vidigal, no Rio de Janeiro
+- Sara Gabrielle de Souza Marques | Da emergência dos alertas à visibilização midiática dos riscos da mineração: caso Braskem−Maceió
+- Jasmin da Silva Santos | Resultados do Projeto de Pesquisa “Direito das Favelas, Eixo “transações imobiliárias” nas favelas da Cachoeirinha e Vidigal
+- Louise Gil Soares Ferreira | Revisão de Áreas Suscetíveis a Desastres Socioambientais: Condicionante Ambiental, Social e o uso do SIG
+- João Pedro Simão Rodrigues; Emerson de Oliveira Santos | Cartografia racial: metodologias, análises e desafios técnicos na construção de um repositório cartográfico
+Obs: Os pôsteres ficam expostos durante todos os dias do evento. A premiação do melhor pôster será na sexta-feira, durante a sessão de encerramento.
+
+
+# 23/10/2026
+
+## 10:00-12:00 | conferencia | Auditório · sala 528
+Código: Conferência de Encerramento
+Título: Participação social, Planejamento e Gestão Pública: projetos em disputa e caminhos possíveis nas territorialidades do Sul Global
+Conferencista: Raúl Zibechi
+Moderação: Carla Hirt
+
+## 12:00 | festa | Tuia Café Cultural
+Título: Festa de encerramento
+
+
+# 24/10/2026
+
+## 07:00 | campo | R. Bento Lisboa, 155 - Flamengo, Rio de Janeiro - RJ, 22221-010
+Código: Visita de campo
+Título: Território, planejamento e luta quilombola em Santa Rita do Bracuí, Angra dos Reis
+Organização: Associação dos Remanescentes Quilombolas de Santa Rita do Bracuí (ARQUISABRA) · Núcleo de Estudos e Pesquisa em Geografia, Relações Raciais e Movimentos Sociais (NEGRAM/ETTERN/IPPUR)
+
+## 08:30 | campo | Ilha do Fundão (JMM) - Av. Pedro Calmon, 550
+Código: Visita de campo
+Título: Restinga de Maricá e a gente das areias sob ameaça
+Organização: Laboratório Antropologia e Território (LAT/IPPUR) · Laboratório de Etnografia Metropolitana (LeMetro/ICHFUFF) · Associação dos Pescadores de Zacarias (ACCLAPEZ) · Movimento Baía Viva
+
+## 10:00 | campo | Praça Mauá
+Código: Visita de campo
+Título: Circuito Pequena África: uma imersão na história e territorialidade afrocarioca pela Zona Portuária
+Organização: Núcleo de Estudos e Pesquisa em Geografia, Relações Raciais e Movimentos Sociais (NEGRAM/ETTERN/IPPUR)

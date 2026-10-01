@@ -1,0 +1,173 @@
+{
+  "evento": {
+    "nome": "XXXI Semana IPPUR",
+    "tema": "Ativismos, planejamento e gestão pública: disputas e caminhos possíveis no Sul Global",
+    "subtitulo": "19–24 OUT 2026 · JMM · CIDADE UNIVERSITÁRIA DA UFRJ",
+    "descricao": "19 a 24 de outubro de 2026 · 55 anos do Programa de Pós-Graduação em Planejamento Urbano e Regional.",
+    "local": "Edifício Jorge Machado Moreira (JMM)",
+    "endereco": "Av. Pedro Calmon, 550 · Cidade Universitária da UFRJ, Ilha do Fundão, Rio de Janeiro",
+    "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pedro+Calmon,+550+Cidade+Universit%C3%A1ria+Rio+de+Janeiro",
+    "fuso": "-03:00"
+  },
+  "cores": {
+    "principal": "#BD0303",
+    "verde": "#099078",
+    "bronze": "#A37241",
+    "grafite": "#454545",
+    "fundo": "#F9ECE5",
+    "fundoExterno": "#EADBD1"
+  },
+  "visual": {
+    "logo": "assets/logo.png",
+    "logoClaro": "assets/logo-branco.png",
+    "logosApoio": "assets/logos-apoio.png",
+    "texturaPadrao": "assets/fundo-cidade.png",
+    "texturasPorDia": {
+      "2026-10-19": "assets/fundo-cidade.png",
+      "2026-10-20": "assets/fundo-campo-verde.png",
+      "2026-10-21": "assets/fundo-cidade-marrom.png",
+      "2026-10-22": "assets/fundo-campo-marrom.png",
+      "2026-10-23": "assets/fundo-grafismo-marrom.png",
+      "2026-10-24": "assets/fundo-campo.png"
+    }
+  },
+  "tipos": {
+    "abertura": {
+      "nome": "Abertura",
+      "cor": "principal"
+    },
+    "conferencia": {
+      "nome": "Conferência",
+      "cor": "principal"
+    },
+    "mesa": {
+      "nome": "Mesa-redonda",
+      "cor": "principal"
+    },
+    "st": {
+      "nome": "Sessão temática",
+      "cor": "verde"
+    },
+    "sl": {
+      "nome": "Sessão livre",
+      "cor": "bronze"
+    },
+    "especial": {
+      "nome": "Sessão especial",
+      "cor": "grafite"
+    },
+    "livros": {
+      "nome": "Lançamento",
+      "cor": "grafite",
+      "lista": "Livros"
+    },
+    "poster": {
+      "nome": "Pôsteres",
+      "cor": "grafite",
+      "lista": "Pôsteres"
+    },
+    "campo": {
+      "nome": "Visita de campo",
+      "cor": "verde",
+      "horaRotulo": "Saída",
+      "localRotulo": "Encontro"
+    },
+    "festa": {
+      "nome": "Confraternização",
+      "cor": "bronze"
+    },
+    "pausa": {
+      "nome": "",
+      "cor": "bronze"
+    }
+  },
+  "filtros": [
+    {
+      "nome": "Tudo",
+      "tipos": []
+    },
+    {
+      "nome": "Mesas e conferências",
+      "tipos": [
+        "abertura",
+        "conferencia",
+        "mesa"
+      ]
+    },
+    {
+      "nome": "Sessões temáticas",
+      "tipos": [
+        "st"
+      ]
+    },
+    {
+      "nome": "Sessões livres",
+      "tipos": [
+        "sl"
+      ]
+    },
+    {
+      "nome": "Outras",
+      "tipos": [
+        "especial",
+        "livros",
+        "poster",
+        "festa",
+        "campo"
+      ]
+    }
+  ],
+  "sugestoesBusca": [
+    "Sala 522",
+    "Mobilidade",
+    "Favela",
+    "Habitação",
+    "Quilombola"
+  ],
+  "salas": [
+    {
+      "numero": "528",
+      "descricao": "Auditório IPPUR",
+      "destaque": true
+    },
+    {
+      "numero": "522",
+      "descricao": "Sessões simultâneas"
+    },
+    {
+      "numero": "524",
+      "descricao": "Sessões simultâneas"
+    },
+    {
+      "numero": "526",
+      "descricao": "Sessões simultâneas"
+    }
+  ],
+  "blocosInfo": [
+    {
+      "titulo": "Exposições fotográficas",
+      "subtitulo": "Hall de elevadores, 5º andar · todos os dias",
+      "itens": [
+        {
+          "titulo": "Um Bairro Inexistente Com CEP",
+          "texto": "Luís Antonio Júnior"
+        },
+        {
+          "titulo": "A Forma do Vento",
+          "texto": "Maria Vasconcellos; Eduarda dos Santos; Renata Rossi; Matthews Mello; Klediógenes Nóbrega"
+        },
+        {
+          "titulo": "Onde brota pertencimento: jardins cotidianos, cuidado e apropriação dos espaços comuns no PMCMV",
+          "texto": "Geísa dos Santos; Paulo Henrique Cavalcante"
+        }
+      ]
+    },
+    {
+      "titulo": "Pôsteres",
+      "texto": "Expostos durante todo o evento. Apresentações na quinta (22/10), 16h30. Premiação na sessão de encerramento."
+    }
+  ],
+  "teste": {
+    "simularAgora": ""
+  }
+}

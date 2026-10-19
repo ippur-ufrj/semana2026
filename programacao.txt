@@ -79,7 +79,7 @@ Coordenação: Claudia Paiva (IPPUR/UFRJ)
 ## 16:00-16:30 | pausa
 Título: Intervalo
 
-## 16:30-18:00 | sl | Sala 522
+## 16:30-18:00 | sl | Sala 545
 Código: SL 1
 Título: A produção social do território e a política urbanizadora no oitocentos imperial e Primeira República
 Coordenação: Fania Fridman (IPPUR/UFRJ)
@@ -160,7 +160,7 @@ Código: SL 5
 Título: Transporte público por ônibus no município do Rio de Janeiro entre 2010 e 2028: agendas globais, tecnologias e justiça socioespacial
 Participantes: Rosangela M. Luft; Rebecca Bassi; Matheus Ramos; Jessica Venel Alves; Josiane Lima Barreto; Vinícius Moraes
 
-## 16:30-18:00 | sl | Sala 524
+## 16:30-18:00 | sl | Sala 545
 Código: SL 6
 Título: Assetização, transição energética e territórios
 Participantes: Deborah Werner; Júlio César Holanda Araújo; Lucas Reis Santos; Wander Guerra
